@@ -2,7 +2,7 @@
 
 It refers to the portion of a webpage or document that a user has viewed or scrolled through relative to its total length. It creates a progress bar that indicates how far a user has scrolled down a webpage.
 
-Hosted link : 
+Hosted link : https://amancantgit.github.io/Percentage-Scrolled/
 
 ## Language Used :-
 HTML, CSS & Vanilla JavaScript.
